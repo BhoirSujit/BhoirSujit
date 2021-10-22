@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhoirSujit
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning at Bsc Cs
+- 🌱 I’m currently learning in Bsc Cs
 - 📫 You can reach me on instagram sujit.004
 
 <!---
